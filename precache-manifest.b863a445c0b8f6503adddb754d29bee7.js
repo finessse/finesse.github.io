@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70a73175823e01b85240c954f01dc7ee",
+    "revision": "eee4cae1c1595148c792d8e46acac218",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "f5e0e8ddcdd1ecbf5a08",
-    "url": "/static/css/main.e3c11e19.chunk.css"
+    "revision": "657bf9ffc5a354239b3f",
+    "url": "/static/css/main.5faa8a89.chunk.css"
   },
   {
     "revision": "0cfd10df5ffd9a07fd75",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8f4fb6fd.chunk.js.LICENSE"
   },
   {
-    "revision": "f5e0e8ddcdd1ecbf5a08",
+    "revision": "657bf9ffc5a354239b3f",
     "url": "/static/js/main.77723f73.chunk.js"
   },
   {
@@ -36,7 +36,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/NoeDisplay-Bold.30a71dcf.ttf"
   },
   {
+    "revision": "1b277bfd4755b8d59a1bf229e4527fbf",
+    "url": "/static/media/TuesdayNight-Regular.1b277bfd.ttf"
+  },
+  {
     "revision": "4b97a3fc48c4d247762c28fa2d1d7a8b",
     "url": "/static/media/TuesdayNight-Regular.4b97a3fc.svg"
+  },
+  {
+    "revision": "6e0e917697a5be6b39bfe42d5e4972b0",
+    "url": "/static/media/TuesdayNight-Regular.6e0e9176.woff2"
+  },
+  {
+    "revision": "f7cb2a3cb10fe4b0f5d7e140f328a555",
+    "url": "/static/media/TuesdayNight-Regular.f7cb2a3c.woff"
+  },
+  {
+    "revision": "fdd10873f9b2b8ffe414ef939a36cf23",
+    "url": "/static/media/TuesdayNight-Regular.fdd10873.otf"
   }
 ]);
